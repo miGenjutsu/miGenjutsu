@@ -19,6 +19,11 @@
   <img src="https://media.giphy.com/media/9igGG6KxpY0eY0Sr5u/giphy.gif" width="600" height="300"/>
 </div>
 
+------
+
+:man_technologist: I'm an Aspiring Cloud Architect
+
+:wave:
 
 ### Hi there 👋
 

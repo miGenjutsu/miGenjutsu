@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on: Obtaining my AWS Solutions Architect Associates
 - 🌱 I’m currently learning: Terraform and the AWS Provider
 - 👯 I’m looking to collaborate on: Anything Terraform related to gain even more knowledge
-- 🤔 I’m looking for help with: New infrastructure to develope
+- 🤔 I’m looking for help with: New infrastructure to develop
 - 📫 How to reach me: Happily working for awesome Senior Developers
 - ⚡ Fun fact: I'm a father of three beautifyl kids and 2 are twins
 -->

@@ -21,9 +21,15 @@
 
 ------
 
-:man_technologist: I'm an Aspiring Cloud Architect
+### :man_technologist: About Me :
+I am a Cloud Architect <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :telescope: I’m working as a Cloud Architect and contributing to cloud infrastucture.
 
-:wave:
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I look for new ideas and infrastucture to build to expand my knowledge and read tech articles.
+
+
 
 ### Hi there 👋
 

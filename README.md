@@ -15,6 +15,10 @@
 <div align=center id=badge>
   <img src="https://komarev.com/ghpvc/?username=domhenin&style=flat-square&color=blue" alt=""/>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/9igGG6KxpY0eY0Sr5u/giphy.gif" width="600" height="300"/>
+</div>
+
 
 ### Hi there 👋
 

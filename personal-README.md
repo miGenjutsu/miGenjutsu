@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on: Anything Terraform related to gain even more knowledge
 - 🤔 I’m looking for help with: New infrastructure to develop
 - 📫 How to reach me: Happily working for awesome Senior Developers
-- ⚡ Fun fact: I'm a father of three beautifyl kids and 2 are twins
+- ⚡ Fun fact: if you don't use it you loose it
 ----
 
 ### :hammer_and_wrench: Languages and Tools :

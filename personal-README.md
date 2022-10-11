@@ -69,6 +69,14 @@ Here are some ideas to get you started:
 
 ---
 
+## Certifications:
+
+<div>
+  <img src="https://cdn-ckjba.nitrocdn.com/XvHIXtRQMUYzLjoXbfBpiwAcydcSSOVj/assets/static/optimized/rev-5783c2b/wp-content/uploads/2020/12/AWS-Certified_Cloud-Practitioner_512x512.bc006f14f986fa4f3ca238b0b62be458ce1fb5ce.png" title="AWS Certification" **alt="AWSCERT" width="120" height="120"/>
+</div>
+
+---
+
 ## Badges: Experience
 <div>
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>

@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Certifications:
+## :scroll: Certifications:
 
 <div>
   <img src="https://cdn-ckjba.nitrocdn.com/XvHIXtRQMUYzLjoXbfBpiwAcydcSSOVj/assets/static/optimized/rev-5783c2b/wp-content/uploads/2020/12/AWS-Certified_Cloud-Practitioner_512x512.bc006f14f986fa4f3ca238b0b62be458ce1fb5ce.png" title="AWS Certification" **alt="AWSCERT" width="120" height="120"/>
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Badges: Experience
+## :electron: Badges: Experience
 <div>
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Badges: Personal
+## :electron: Badges: Personal
 <div>
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"/>

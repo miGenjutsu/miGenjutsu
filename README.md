@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="310"/>
+  <img src="https://media1.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif?cid=ecf05e472whsf08btafsor38m9ougj0ystbms15qi9job0w5&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="310"/>
 </div>
 <div id="badges" align="center">
   <!-- <a href="https://www.linkedin.com/in/dominic-heningburg-b201b7119">
